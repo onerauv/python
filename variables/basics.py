@@ -90,8 +90,8 @@ print(a + b)
 # ✔ Use meaningful names:
 
 age = 20
-student_name = "Ali"
+student_name = "Rav"
 
 # ❌ Avoid:
 # a = 20
-# x1 = "Ali"
+# x1 = "Rav"

@@ -40,4 +40,5 @@ This project is open-source and free to use for learning purposes.
 ## 📌 Project Status
 
 ⚠️ This repository is currently in active development.
+
 Loading... [█░░░░░░░░░] 10%
